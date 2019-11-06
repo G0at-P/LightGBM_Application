@@ -9,7 +9,7 @@ Use the package manager [pip](https://lightgbm.readthedocs.io/en/latest/Installa
 conda install -c conda-forge lightgbm
 ```
 ## Data Description
-A very small dataset with 400 rows and 5 columns. We want to predict whether the customer will buy the product from advertise given his age and estimated salary. This dataset contains no missing values and has been standardized into a proper format. 
+A very small [dataset](https://drive.google.com/file/d/0By9Y49AzZGaUakdSbFRodWJsUU0/view) with 400 rows and 5 columns We want to predict whether the customer will buy the product from advertise given his age and estimated salary. This dataset contains no missing values and has been standardized into a proper format. 
 
 
 
