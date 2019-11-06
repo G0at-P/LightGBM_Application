@@ -3,7 +3,7 @@ LightGBM is a gradient boosting framework that uses tree based learning algorith
 
 ## LightGBM Installation
 
-Follow the [instructions](https://lightgbm.readthedocs.io/en/latest/Installation-Guide.html) here to install LightGBM. Use the following to incorporate lightgbm into your Anaconda platform
+Follow the [instructions](https://lightgbm.readthedocs.io/en/latest/Installation-Guide.html) here to install LightGBM. Use the following bash command to incorporate lightgbm into your Anaconda platform
 
 ```bash
 conda install -c conda-forge lightgbm
