@@ -1,7 +1,7 @@
-# LightGBM
-Light GBM is a gradient boosting framework that uses tree based learning algorithm.
+# LightGBM_Application
+Light GBM is a gradient boosting framework that uses tree based learning algorithm. This repository presents an application using LightGBM.
 
-## Installation
+## LightGBM Installation
 
 Use the package manager [pip](https://lightgbm.readthedocs.io/en/latest/Installation-Guide.html) to install LightGBM. Use the following to incorporate lightgbm into your Anaconda platform
 
