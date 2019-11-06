@@ -1,5 +1,5 @@
 # LightGBM_Application
-Light GBM is a gradient boosting framework that uses tree based learning algorithm. This repository presents an application using LightGBM.
+LightGBM is a gradient boosting framework that uses tree based learning algorithm. This repository presents an application using LightGBM.
 
 ## LightGBM Installation
 
@@ -30,4 +30,4 @@ params['max_depth']=10
 ```
 
 ## Result
-LightGBM achieves 94% accuracy with 500 iterations on this dataset. 
+LightGBM achieves 94% accuracy with 500 iterations on this dataset. Also, the resulting confusion matrix shows low false positive rate and low negative rate for LightGBM.
