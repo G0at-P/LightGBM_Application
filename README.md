@@ -14,6 +14,7 @@ A very small dataset with 400 rows and 5 columns. We want to predict whether the
 
 
 ## Usage
+In order to perform LightGBM on this dataset, we need to convert our training data into LightBGM data format. Also, we need to fine tune the parameters for better performance.
 ```python
 import lightgbm as lgb
 d_train = lgb.Dataset(x_train, label=y_train)
